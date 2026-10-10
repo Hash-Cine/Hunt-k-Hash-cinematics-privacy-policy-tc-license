@@ -1,3 +1,8 @@
+---
+title: Proprietary License
+permalink: /license
+---
+
 # Proprietary License
 
 Copyright © 2026 Hunt K Hash Cinematics ("Hash"). All rights reserved.

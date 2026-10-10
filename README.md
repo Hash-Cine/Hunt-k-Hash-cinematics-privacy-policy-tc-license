@@ -6,7 +6,7 @@ AI assistant to Instagram and YouTube accounts.
 - [Privacy Policy](privacy-policy.md)
 - [Terms and Conditions](terms.md)
 - [User Data Deletion](data-deletion.md)
-- [License](LICENSE.md)
+- [License](https://hash-cine.github.io/Hunt-k-Hash-cinematics-privacy-policy-tc-license/license)
 
 Questions or requests: open an issue at
 <https://github.com/Hash-Cine/Hunt-k-Hash-cinematics-privacy-policy-tc-license/issues>.
